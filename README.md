@@ -1,4 +1,4 @@
 ksana2015
 =======
 
-npm install -g browserify watchify
+npm install -g browserify watchify ksana-cli
