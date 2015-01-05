@@ -1,4 +1,4 @@
 ksana2015
 =======
 
-npm install -g nodewebkit browserify watchify mocha
+npm install -g browserify watchify
