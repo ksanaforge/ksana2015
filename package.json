@@ -15,7 +15,8 @@
     "ksana-analyzer": "git+https://github.com/ksanaforge/ksana-analyzer.git",
     "ksana-webruntime": "git+https://github.com/ksanaforge/ksana2015-webruntime.git",
     "ksana2015-scaffold-default": "git+https://github.com/ksanaforge/ksana2015-scaffold-default.git",
-    "ksana2015-swipe3-ui": "git+https://github.com/ksanaforge/ksana2015-swipe3-ui.git"
+    "ksana2015-swipe3-ui": "git+https://github.com/ksanaforge/ksana2015-swipe3-ui.git",
+    "ksana-parser-docx": "git+https://github.com/ksanaforge/ksana-parser-docx.git"
   },
   "devDependencies": {},
   "scripts": {
