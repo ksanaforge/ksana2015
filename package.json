@@ -14,6 +14,7 @@
     "ksana-webruntime": "git+https://github.com/ksanaforge/ksana2015-webruntime.git",
     "ksana2015-scaffold-default": "git+https://github.com/ksanaforge/ksana2015-scaffold-default.git",
     "ksana2015-swipe3-ui": "git+https://github.com/ksanaforge/ksana2015-swipe3-ui.git",
+    "ksana2015-stacktoc": "git+https://github.com/ksanaforge/ksana2015-stacktoc.git",
     "nodewebkit": "*",
     "reactify": "*",
     "reflux": "*",
