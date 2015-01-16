@@ -4,7 +4,7 @@
   "description": "ksana2015\r =======",
   "main": "index.js",
   "dependencies": {
-    "glob": "^4.3.2",
+    "glob": "*",
     "ksana-analyzer": "git+https://github.com/ksanaforge/ksana-analyzer.git",
     "ksana-database": "git+https://github.com/ksanaforge/ksana-database.git",
     "ksana-indexer": "git+https://github.com/ksanaforge/ksana-indexer.git",
@@ -19,7 +19,7 @@
     "nodewebkit": "*",
     "reactify": "*",
     "reflux": "*",
-    "sax": "^0.6.1"
+    "sax": "*"
   },
   "devDependencies": {},
   "scripts": {
