@@ -16,6 +16,7 @@
     "ksana2015-swipe3-ui": "git+https://github.com/ksanaforge/ksana2015-swipe3-ui.git",
     "ksana2015-stacktoc": "git+https://github.com/ksanaforge/ksana2015-stacktoc.git",
     "ksana2015-swipe": "git+https://github.com/ksanaforge/ksana2015-swipe.git",
+    "ksana2015-components": "git+https://github.com/ksanaforge/ksana2015-components.git",
     "nodewebkit": "*",
     "reactify": "*",
     "reflux": "*",
