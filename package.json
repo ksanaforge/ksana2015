@@ -14,6 +14,7 @@
     "ksana-webruntime": "git+https://github.com/ksanaforge/ksana2015-webruntime.git",
     "ksana2015-components": "git+https://github.com/ksanaforge/ksana2015-components.git",
     "ksana2015-scaffold-default": "git+https://github.com/ksanaforge/ksana2015-scaffold-default.git",
+    "ksana2015-scaffold-reflux": "git+https://github.com/ksanaforge/ksana2015-scaffold-reflux.git",
     "ksana2015-stacktoc": "git+https://github.com/ksanaforge/ksana2015-stacktoc.git",
     "ksana2015-treetoc": "git+https://github.com/ksanaforge/ksana2015-treetoc.git",
     "ksana2015-swipe": "git+https://github.com/ksanaforge/ksana2015-swipe.git",
