@@ -20,17 +20,17 @@
     "ksana2015-swipe": "git+https://github.com/ksanaforge/ksana2015-swipe.git",
     "ksana2015-swipe3-ui": "git+https://github.com/ksanaforge/ksana2015-swipe3-ui.git",
     "ksana2015-paradigm": "git+https://github.com/ksanaforge/ksana-paradigm.git",
+    "chrome-webserver":"https://github.com/ksanaforge/chrome-webserver.git",
     "nodewebkit": "*",
     "reactify": "~0.17.0",
     "react": "*",
     "reflux": "*",
-    "sax": "*",
-    "velocity-animate": "*"
+    "sax": "*"
   },
   "devDependencies": {
     "mocha": "*",
     "jslint": "*",
-    "jsdom":"*"
+    "jsdom":"~3.1.0"
   },
   "scripts": {
     "lint": "jshint **.js",
