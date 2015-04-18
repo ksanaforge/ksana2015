@@ -1,6 +1,6 @@
 {
   "name": "ksana2015",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ksana2015\r =======",
   "main": "index.js",
   "dependencies": {
@@ -19,21 +19,19 @@
     "ksana2015-treetoc": "git+https://github.com/ksanaforge/ksana2015-treetoc.git",
     "ksana2015-swipe": "git+https://github.com/ksanaforge/ksana2015-swipe.git",
     "ksana2015-swipe3-ui": "git+https://github.com/ksanaforge/ksana2015-swipe3-ui.git",
-    "ksana2015-paradigm": "git+https://github.com/ksanaforge/ksana-paradigm.git",
     "nw": "*",
-    "reactify": "~0.17.0",
+    "reactify": "*",
     "react": "*",
     "reflux": "*",
     "sax": "*"
   },
   "devDependencies": {
     "mocha": "*",
-    "jslint": "*",
     "jsdom":"~3.1.0"
   },
   "scripts": {
-    "lint": "jshint **.js",
-    "test": "test"
+    "lint": "jsxhint **.js",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
