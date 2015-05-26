@@ -11,7 +11,7 @@
     "ksana-jsonrom": "git+https://github.com/ksanaforge/ksana-jsonrom.git",
     "ksana-parser-docx": "git+https://github.com/ksanaforge/ksana-parser-docx.git",
     "ksana-search": "git+https://github.com/ksanaforge/ksana-search.git",
-    "ksana-webruntime": "git+https://github.com/ksanaforge/ksana2015-webruntime.git",
+    "ksana2015-webruntime": "git+https://github.com/ksanaforge/ksana2015-webruntime.git",
     "ksana2015-components": "git+https://github.com/ksanaforge/ksana2015-components.git",
     "ksana2015-scaffold-default": "git+https://github.com/ksanaforge/ksana2015-scaffold-default.git",
     "ksana2015-scaffold-reflux": "git+https://github.com/ksanaforge/ksana2015-scaffold-reflux.git",
