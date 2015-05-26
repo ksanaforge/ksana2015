@@ -24,7 +24,8 @@
     "reactify": "*",
     "react": "*",
     "reflux": "*",
-    "sax": "*"
+    "sax": "*",
+    "tibetan":"*"
   },
   "devDependencies": {
     "mocha": "*"
