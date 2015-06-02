@@ -20,7 +20,6 @@
     "ksana2015-swipe": "git+https://github.com/ksanaforge/ksana2015-swipe.git",
     "ksana2015-swipe3-ui": "git+https://github.com/ksanaforge/ksana2015-swipe3-ui.git",
     "firebase":"*",
-    "nw": "*",
     "reactify": "*",
     "react": "*",
     "reflux": "*",
