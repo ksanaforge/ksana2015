@@ -24,7 +24,8 @@
     "react": "*",
     "reflux": "*",
     "sax": "*",
-    "tibetan":"*"
+    "tibetan":"*",
+    "react-panels":"*"
   },
   "devDependencies": {
     "mocha": "*"
