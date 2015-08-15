@@ -4,7 +4,6 @@
   "description": "ksana2015\r =======",
   "main": "index.js",
   "dependencies": {
-    "glob": "*",
     "ksana-analyzer": "git+https://github.com/ksanaforge/ksana-analyzer.git",
     "ksana-database": "git+https://github.com/ksanaforge/ksana-database.git",
     "ksana-indexer": "git+https://github.com/ksanaforge/ksana-indexer.git",
@@ -20,17 +19,19 @@
     "ksana2015-treetoc": "git+https://github.com/ksanaforge/ksana2015-treetoc.git",
     "ksana2015-swipe": "git+https://github.com/ksanaforge/ksana2015-swipe.git",
     "ksana2015-swipe3-ui": "git+https://github.com/ksanaforge/ksana2015-swipe3-ui.git",
-    "firebase":"*",
-    "reactify": "*",
-    "react": "*",
-    "reflux": "*",
-    "sax": "*",
+    "glob": "^4.2.2",
+    "firebase":"^2.2.4",
+    "reactify": "^0.17.1",
+    "react": "^0.13.3",
+    "react-list": "^0.6.0",    
+    "reflux": "^0.2.7",
+    "sax": "^0.6.1",
     "tibetan":"*",
-    "react-panels":"*",
-    "diff":"*"
+    "react-panels":"^2.3.0",
+    "diff":"^1.0.8"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "^2.2.1"
   },
   "scripts": {
     "lint": "jsxhint **.js",
