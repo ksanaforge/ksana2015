@@ -19,6 +19,7 @@
     "ksana2015-treetoc": "git+https://github.com/ksanaforge/ksana2015-treetoc.git",
     "ksana2015-swipe": "git+https://github.com/ksanaforge/ksana2015-swipe.git",
     "ksana2015-swipe3-ui": "git+https://github.com/ksanaforge/ksana2015-swipe3-ui.git",
+    "ksana2015-dualfilter": "git+https://github.com/ksanaforge/ksana2015-dualfilter.git",
     "glob": "^4.2.2",
     "firebase":"^2.2.4",
     "reactify": "^0.17.1",
