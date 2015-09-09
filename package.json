@@ -1,6 +1,6 @@
 {
   "name": "ksana2015",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "ksana2015\r =======",
   "main": "index.js",
   "dependencies": {
@@ -19,6 +19,7 @@
     "ksana2015-stacktoc": "git+https://github.com/ksanaforge/ksana2015-stacktoc.git",
     "ksana2015-treetoc": "git+https://github.com/ksanaforge/ksana2015-treetoc.git",
     "ksana2015-breadcrumbtoc": "git+https://github.com/ksanaforge/ksana2015-breadcrumbtoc.git",
+    "ksana2015-segnav": "git+https://github.com/ksanaforge/ksana2015-segnav.git",
     "ksana2015-swipe": "git+https://github.com/ksanaforge/ksana2015-swipe.git",
     "ksana2015-swipe3-ui": "git+https://github.com/ksanaforge/ksana2015-swipe3-ui.git",
     "ksana2015-dualfilter": "git+https://github.com/ksanaforge/ksana2015-dualfilter.git",
