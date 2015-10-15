@@ -1,6 +1,6 @@
 {
   "name": "ksana2015",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "ksana2015\r =======",
   "main": "index.js",
   "dependencies": {
@@ -27,7 +27,10 @@
     "glob": "^4.2.2",
     "firebase":"^2.2.4",
     "reactify": "^0.17.1",
-    "react": "^0.13.3",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "react-addons-update": "^0.14.0",
+    "react-addons-pure-render-mixin": "^0.14.0",
     "react-list": "^0.6.0",    
     "reflux": "^0.2.7",
     "sax": "^0.6.1",
